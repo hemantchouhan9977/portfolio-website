@@ -12,8 +12,7 @@ I am currently pursuing BCA and learning Web Development. I have knowledge of HT
 
 - HTML
 - CSS
-- Python
-- Basic Java
+- basic javascript
 - MS Office
 - Problem Solving
 
@@ -42,8 +41,8 @@ A basic calculator created using HTML, CSS and JavaScript.
 
 ## Contact
 
-📧 Email: your-email@example.com
+📧 Email: hemantcreations753@gmail.com
 
-📍 Indore, Madhya Pradesh
+📍 dhar, Madhya Pradesh
 
 Thanks for visiting my profile!
