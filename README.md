@@ -1,13 +1,49 @@
-# Personal Portfolio Website
+# Hi, I'm Hemant Chouhan 👋
 
-This is my personal portfolio website project.
+🎓 BCA Student
 
-## Technologies Used
+💻 Aspiring Web Developer & Trainer
+
+## About Me
+
+I am currently pursuing BCA and learning Web Development. I have knowledge of HTML, CSS, Python and basic programming concepts. I enjoy teaching and helping others learn technology in a simple way.
+
+## Skills
+
 - HTML
 - CSS
+- Python
+- Basic Java
+- MS Office
+- Problem Solving
 
-## Features
-- About Me
-- Skills Section
-- Projects Section
-- Contact Section
+## Projects
+
+### Personal Portfolio Website
+A responsive portfolio website built using HTML and CSS.
+
+### Student Registration Form
+A simple registration form using HTML and CSS.
+
+### Calculator
+A basic calculator created using HTML, CSS and JavaScript.
+
+## Education
+
+- BCA (Pursuing)
+- Higher Secondary School (Maths)
+- High School
+
+## Goals
+
+- Become a Professional Web Developer
+- Improve Teaching Skills
+- Learn Advanced Frontend Development
+
+## Contact
+
+📧 Email: your-email@example.com
+
+📍 Indore, Madhya Pradesh
+
+Thanks for visiting my profile!
